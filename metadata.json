@@ -1,0 +1,6 @@
+{
+  "name": "Whistleblowing Platform",
+  "description": "A secure and anonymous platform for reporting and managing organizational concerns. It supports multiple user roles including Admin, HR Manager, Department representatives, Users, and Guests.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
